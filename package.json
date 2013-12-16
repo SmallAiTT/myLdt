@@ -1,0 +1,7 @@
+{
+    "name" : "myldt",
+    "version" : "1.0.0",
+    "dependencies" : {
+        "cocos2d-html5" : "*"
+    }
+}
